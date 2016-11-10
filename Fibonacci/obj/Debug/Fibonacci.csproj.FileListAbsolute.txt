@@ -1,0 +1,6 @@
+C:\Users\maxwell.santos\Documents\Pessoal\Alura\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\maxwell.santos\Documents\Pessoal\Alura\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\maxwell.santos\Documents\Pessoal\Alura\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\maxwell.santos\Documents\Pessoal\Alura\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\maxwell.santos\Documents\Pessoal\Alura\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\maxwell.santos\Documents\Pessoal\Alura\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb
